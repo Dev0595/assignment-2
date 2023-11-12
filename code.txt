@@ -119,5 +119,7 @@ html,
                 font-size: 26px;
                 line-height: 30px;
             }
+<<<<<<< HEAD
 branch1 commit
+=======
 
